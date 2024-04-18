@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": 2,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": 3,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": 4,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": 5,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": 6,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": 7,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  },
+  {
+    "id": 8,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.jpg"
+  },
+  {
+    "id": 9,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "id": 10,
+    "channelUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  }
+]
